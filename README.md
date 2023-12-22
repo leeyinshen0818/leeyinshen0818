@@ -19,17 +19,24 @@
 - 🐕 Love animals.
 - 📖 Love reading novel.
 
-
 <h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
-<h5>Year 1</h5>
 
-- Discrete Structure
-- Programming Technique I 
+<h4>Year 1</h4>
+
 - Technology and Information System
 - Digital Logic
+- Programming Technique I
+- Discrete Structure
 
-<h5>Year 2</h5>
+<h6>You can view my projects of all my my course at https://github.com/users/leeyinshen0818/projects/1/views/1 </h6>
+
+<h4>Year 2</h4>
+
 - to be continued...
+
+<h3> Languages and Tools I learned </h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -41,8 +48,7 @@
 <a href="https://discord.gg/975253203564257311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="975253203564257311" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
 
 
 <!--
