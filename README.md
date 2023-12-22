@@ -1,11 +1,26 @@
+
 <h1 align="center">Hi guys👋, I'm LEE YIN SHEN</h1>
-<h3 align="center">A data engineering student from Malaysia 🇲🇾</h3>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate&center=true&width=500&height=30"></a>
+</p>
 
-- 🌱 I’m currently learning **Bachelor of Computer Science (Data Engineering) at Universiti Teknologi Malaysia.**
+<p align="center">
+  <em>
+    Myself <b>Lee Yin Shen</b>, a first year <b>Computer Science</b> undergraduate from <b>Universiti Teknologi Malaysia</b>.
+    An aspiring <b>Data Engineer.</b> 
+  <br>
+  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/leeyinshen0818/leeyinshen0818.git](https://github.com/leeyinshen0818/leeyinshen0818.git)
+<h3>Little facts about me 🧑</h3>
 
-- 📫 How to reach me **leeyinshen2004@gmail.com**
+- 🧞 A super introvert.
+- 🏠 Enjoy to be alone.
+- 📖 Love reading novel.
+- 🏸 Like playing badminton.
+
+<h3>Little facts about me 🧑</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +48,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👨‍💻 All of my projects are available at [https://github.com/leeyinshen0818/leeyinshen0818.git](https://github.com/leeyinshen0818/leeyinshen0818.git)
+- 📫 How to reach me **leeyinshen2004@gmail.com**
+- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
+- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
+- 💡 Contributing to Open Source Projects is always been a goal to me.
 -->
