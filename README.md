@@ -16,8 +16,8 @@
 - 🧞 A super introvert.
 - 🏠 Enjoy to be alone.
 - 🌴 A nature lover.
-- 🐕 Love animals.
-- 🔷 Rubik's cube lover.
+- 🎣 A fishing lover.
+- 🔷 A Rubik's cube lover.
 
 <h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
 
