@@ -21,15 +21,18 @@
 - 🎣 A fishing lover.
 - 🔷 A Rubik's cube lover.
 
-
+<p><br></p>
 <h3>My skills 💪</h3>
 
-- <p> Photoshop <img src = "IMG/Photoshop.png" width = "25"  align = "center">  </p> 
-  <h5> - Self-learning PS for about 2 years, can do some challenging projects like old photo restoration. 
-    <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h5>
-- <p> Coding <img src = "IMG/cpp.png" width = "25"  align = "center"> </p>
-  <h5> - L
+  <h4> • Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br>  - Self-learning PS for about 2 years, can do some challenging projects like old photo restoration. 
+<br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4> 
 
+<h4> • Coding <img src = "IMG/cpp.png" width = "28"  align = "center"> <br> - Learning C++ nearly 2 years, can create some simple programs. 
+    <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
+
+
+
+<p><br></p>
 <h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
 
 <h4>Year 1</h4>
