@@ -24,6 +24,7 @@
 <h4>Year 1</h4>
 
 - Technology and Information System
+  <h6>You can view my TIS projects here https://github.com/leeyinshen0818/Technology-and-Information-System-.git </h6>
 - Digital Logic
 - Programming Technique I
 - Discrete Structure
@@ -33,7 +34,6 @@
 <img src = "IMG/c++.png" width = "30" >
 <img src = "IMG/GitHub.png" width = "30">
 
-<h6>You can view my projects of all my my course at https://github.com/users/leeyinshen0818/projects/1/views/1 </h6>
 
 <h4>Year 2</h4>
 
