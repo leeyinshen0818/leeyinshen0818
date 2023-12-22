@@ -21,7 +21,7 @@
 - 🎣 A fishing lover.
 - 🔷 A Rubik's cube lover.
 
-<p><br></p>
+
 <h3>My skills 💪</h3>
 
   <h4> • Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br>  - Self-learning PS for about 2 years, can do some challenging projects like old photo restoration. 
@@ -31,8 +31,7 @@
     <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
 
 
-
-<p><br></p>
+<h6><br></h6>
 <h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
 
 <h4>Year 1</h4>
@@ -56,7 +55,6 @@
 <h4>Year 2</h4>
 
 - to be continued...
-
 
 
 <h4> Connect with me🤝: <h4>
