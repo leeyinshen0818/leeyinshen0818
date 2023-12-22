@@ -19,6 +19,10 @@
 - 🎣 A fishing lover.
 - 🔷 A Rubik's cube lover.
 
+<h3>My skills 💪</h3>
+
+- 
+
 <h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
 
 <h4>Year 1</h4>
