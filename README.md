@@ -37,13 +37,13 @@
 
 <h4>Year 1</h4>
 
-- Technology and Information System
+- Technology and Information System 📱
   <h6>You can view my TIS projects here https://github.com/leeyinshen0818/Technology-and-Information-System-.git </h6>
-- Digital Logic
+- Digital Logic 💾
   <h6>You can view my DL projects here https://github.com/leeyinshen0818/DIGITAL-LOGIC.git </h6>
-- Programming Technique I
+- Programming Technique I 💻
   <h6>You can view my PT1 projects here https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h6>
-- Discrete Structure
+- Discrete Structure 📈
   <h6>You can view my DS projects here https://github.com/leeyinshen0818/DISCRETE-STRUCTURE.git </h6>
 
 
