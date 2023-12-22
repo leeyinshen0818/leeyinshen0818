@@ -3,6 +3,7 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate&center=true&width=500&height=30"></a>
 </p>
 
+
 <p align="center">
   <em>
     Myself <b>Lee Yin Shen</b>, a first year <b>Computer Science</b> undergraduate from <b>Universiti Teknologi Malaysia</b>.
@@ -10,6 +11,7 @@
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
+
 
 <h3>Little facts about me 🧑</h3>
 
@@ -19,9 +21,14 @@
 - 🎣 A fishing lover.
 - 🔷 A Rubik's cube lover.
 
+
 <h3>My skills 💪</h3>
 
-- 
+- <p> Photoshop <img src = "IMG/Photoshop.png" width = "25"  align = "center">  </p> 
+  <h5> - Self-learning PS for about 2 years, can do some challenging projects like old photo restoration. 
+    <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h5>
+- <p> Coding <img src = "IMG/cpp.png" width = "25"  align = "center"> </p>
+  <h5> - L
 
 <h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
 
