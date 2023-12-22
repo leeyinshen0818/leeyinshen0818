@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi guys👋, I'm LEE YIN SHEN</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate&center=true&width=500&height=30"></a>
@@ -16,10 +15,21 @@
 
 - 🧞 A super introvert.
 - 🏠 Enjoy to be alone.
+- 🌴 A nature lover.
+- 🐕 Love animals.
 - 📖 Love reading novel.
-- 🏸 Like playing badminton.
 
-<h3>Little facts about me 🧑</h3>
+
+<h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
+<h5>Year 1</h5>
+
+- Discrete Structure
+- Programming Technique I 
+- Technology and Information System
+- Digital Logic
+
+<h5>Year 2</h5>
+- to be continued...
 
 
 <h3 align="left">Connect with me:</h3>
