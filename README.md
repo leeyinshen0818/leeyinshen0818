@@ -3,9 +3,6 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate&center=true&width=500&height=30"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chohjingyia23cs0296&label=Profile%20views&color=0e75b6&style=flat" alt="ys_523006" /> </p>
-
-
 <p align="center">
   <em>
     Myself <b>Lee Yin Shen</b>, a first year <b>Computer Science</b> undergraduate from <b>Universiti Teknologi Malaysia</b>.
@@ -13,6 +10,8 @@
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leeyinshen0818&label=Profile%20views&color=0e75b6&style=flat" alt="leeyinshen0818" /> </p>
 
 
 <h3>Little facts about me 🧑</h3>
