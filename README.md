@@ -3,6 +3,8 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate&center=true&width=500&height=30"></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chohjingyia23cs0296&label=Profile%20views&color=0e75b6&style=flat" alt="ys_523006" /> </p>
+
 
 <p align="center">
   <em>
