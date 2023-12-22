@@ -17,7 +17,7 @@
 - 🏠 Enjoy to be alone.
 - 🌴 A nature lover.
 - 🐕 Love animals.
-- 📖 Love reading novel.
+- 🔷 Rubik's cube lover.
 
 <h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
 
