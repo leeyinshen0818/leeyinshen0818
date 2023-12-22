@@ -29,7 +29,9 @@
 - Discrete Structure
 
 <h4> Languages and Tools I learned </h4>
-<img src = "IMG/clion.1024x1024.png" width = "40" >
+<img src = "IMG/clion.1024x1024.png" width = "30" >
+<img src = "IMG/c++.png" width = "30" >
+<img src = "IMG/GitHub.png" width = "30">
 
 <h6>You can view my projects of all my my course at https://github.com/users/leeyinshen0818/projects/1/views/1 </h6>
 
