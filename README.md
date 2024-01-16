@@ -29,8 +29,8 @@
 
 ## My skills 💪
 
-  <h4> Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4> 
-
+<h4> Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4>
+  
 <h4> Coding <img src = "IMG/cpp.png" width = "28"  align = "center"> <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
 
 <hr>
