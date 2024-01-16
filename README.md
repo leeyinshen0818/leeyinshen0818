@@ -1,39 +1,42 @@
-<h1 align="center">Hi guys👋, I'm LEE YIN SHEN</h1>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi there👋, I'm LEE YIN SHEN</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate&center=true&width=500&height=30"></a>
 </p>
 
 <p align="center">
-  <em>
-    Myself <b>Lee Yin Shen</b>, a first year <b>Computer Science</b> undergraduate from <b>Universiti Teknologi Malaysia</b>.
-    An aspiring <b>Data Engineer.</b> 
-  <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeyinshen0818&label=Profile%20views&color=0e75b6&style=flat" alt="leeyinshen0818" /> </p>
 
+<hr>
 
-<h3>Little facts about me 🧑</h3>
+## 🧑 Little fact about me
 
-- 🧞 A super introvert.
-- 🏠 Enjoy to be alone.
-- 🌴 A nature lover.
-- 🎣 A fishing lover.
-- 🔷 A Rubik's cube lover.
+<pre>
+💻 I am a self taught data engineer and photo editor
+📚 I am currently studying Bachelors in Computer Science in Universiti Teknologi Malaysia
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: CPP, PYTHON
+🚩 Interested in data collecting and data virtualisation
+</pre>
 
+<hr>
 
-<h3>My skills 💪</h3>
+## My skills 💪
 
-  <h4> • Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br>  - Self-learning PS for about 2 years, can do some challenging projects like old photo restoration. 
-<br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4> 
+  <h4> • Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4> 
 
-<h4> • Coding <img src = "IMG/cpp.png" width = "28"  align = "center"> <br> - Learning C++ nearly 2 years, can create some simple programs. 
-    <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
+<h4> • Coding <img src = "IMG/cpp.png" width = "28"  align = "center"> <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
 
+<hr>
 
-<h6><br></h6>
-<h3>My study as a computer science(data engineering) student 👨‍🎓</h3>
+## My study as a computer science(data engineering) student 👨‍🎓
 
 <h4>Year 1</h4>
 
@@ -49,18 +52,18 @@
   <h6>You can view my projects here https://github.com/leeyinshen0818/INTEGRITY-AND-ANTI-CORRUPTION </h6>
 
 
-<h4> Languages and Tools I learned </h4>
-<img src = "IMG/clion.1024x1024.png" width = "30" >
-<img src = "IMG/c++.png" width = "30" >
-<img src = "IMG/GitHub.png" width = "30">
-<img src = "IMG/Deeds.jpg" width = "30" height = "30">
+### 👨‍💻Languages and Tools I learned 
+<img src = "IMG/clion.1024x1024.png" width = "50" > <img src = "IMG/c++.png" width = "50" ><img src = "IMG/GitHub.png" width = "50"><img src = "IMG/Deeds.jpg" width = "50" height = "50">
+
+<hr>
 
 <h4>Year 2</h4>
 
 - to be continued...
 
+<hr>
 
-<h4> Connect with me🤝: <h4>
+## Connect with me🤝:
   </hr>
   <a href="https://www.linkedin.com/in/lee-yin-shen-86ba87297">
    <img align="left" alt="LEE YIN SHEN | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -100,4 +103,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
 - 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
+<h3>Little facts about me 🧑</h3>
+
+- 🧞 A super introvert.
+- 🏠 Enjoy to be alone.
+- 🌴 A nature lover.
+- 🎣 A fishing lover.
+- 🔷 A Rubik's cube lover.
+  <em>
+    Myself <b>Lee Yin Shen</b>, a first year <b>Computer Science</b> undergraduate from <b>Universiti Teknologi Malaysia</b>.
+    An aspiring <b>Data Engineer.</b> 
+  <br>
 -->
