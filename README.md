@@ -27,7 +27,7 @@
 
 <hr>
 
-## My skills 💪
+## 💪 My skills 
 
 <h4> Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4>
   
@@ -35,7 +35,7 @@
 
 <hr>
 
-## My study as a computer science(data engineering) student 👨‍🎓
+## 👨‍🎓 My study as a computer science(data engineering) student 
 
 <h4>Year 1</h4>
 
@@ -62,7 +62,7 @@
 
 <hr>
 
-## Connect with me🤝:
+## 🤝Connect with me:
   </hr>
   <a href="https://www.linkedin.com/in/lee-yin-shen-86ba87297">
    <img align="left" alt="LEE YIN SHEN | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
