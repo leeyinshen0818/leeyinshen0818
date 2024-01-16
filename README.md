@@ -45,6 +45,8 @@
   <h6>You can view my PT1 projects here https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h6>
 - Discrete Structure 📈
   <h6>You can view my DS projects here https://github.com/leeyinshen0818/DISCRETE-STRUCTURE.git </h6>
+- Integrity And Anti-Corruption 🧑‍🤝‍🧑
+  <h6>You can view my projects here https://github.com/leeyinshen0818/INTEGRITY-AND-ANTI-CORRUPTION </h6>
 
 
 <h4> Languages and Tools I learned </h4>
