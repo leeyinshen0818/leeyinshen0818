@@ -18,7 +18,7 @@
 
 <pre>
 💻 I am a self taught data engineer and photo editor
-📚 I am currently studying Bachelors in Computer Science in Universiti Teknologi Malaysia
+📚 I am currently studying Bachelors Degree in Computer Science in Universiti Teknologi Malaysia
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: CPP, PYTHON
