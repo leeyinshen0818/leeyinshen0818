@@ -27,14 +27,25 @@
 
 <hr>
 
-## 💪 My skills 
-
-<h4> Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4>
-  
-<h4> Coding <img src = "IMG/cpp.png" width = "28"  align = "center"> <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
+## 🎓Education 
+- SMK Simpang Renggam
+  - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
+- UTM
+  - Foundation in Physical Science (2022 - 2023)
+  - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
 
 <hr>
 
+## 💪 My skills 
+
+- Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center">
+  <h6> - You can view my projects here <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h6>
+  
+- Coding <img src = "IMG/cpp.png" width = "28"  align = "center">
+  <h6> - You can view my projects here https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h6>
+
+<hr>
+    
 ## 👨‍🎓 My study as a computer science(data engineering) student 
 
 <h4>Year 1</h4>
@@ -50,8 +61,9 @@
 - Integrity And Anti-Corruption 🧑‍🤝‍🧑
   <h6>You can view my projects here https://github.com/leeyinshen0818/INTEGRITY-AND-ANTI-CORRUPTION </h6>
 
+<hr>
 
-### 👨‍💻Languages and Tools I learned 
+## 👨‍💻Languages and Tools I learned 
 <img src = "IMG/clion.1024x1024.png" width = "50" > <img src = "IMG/c++.png" width = "50" ><img src = "IMG/GitHub.png" width = "50"><img src = "IMG/Deeds.jpg" width = "50" height = "50">
 
 <hr>
@@ -113,4 +125,7 @@ Here are some ideas to get you started:
     Myself <b>Lee Yin Shen</b>, a first year <b>Computer Science</b> undergraduate from <b>Universiti Teknologi Malaysia</b>.
     An aspiring <b>Data Engineer.</b> 
   <br>
+  <h4> Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4>
+  
+<h4> Coding <img src = "IMG/cpp.png" width = "28"  align = "center"> <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
 -->
