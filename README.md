@@ -18,7 +18,7 @@
 
 <pre>
 💻 I am a self taught data engineer and photo editor
-📚 I am currently studying Bachelors Degree in Computer Science in Universiti Teknologi Malaysia
+📚 I am currently studying Bachelors Degree in Computer Science(Data Engineering) in Universiti Teknologi Malaysia
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: CPP, PYTHON
@@ -36,7 +36,14 @@
 
 <hr>
 
-## 💪 My skills 
+## 📑 Certificate
+- SPM 10A (8A+,1A,1A-)
+- Foundation CGPA 3.99
+- MUET 4.0
+
+<hr>
+
+## 💪 Skills 
 
 - Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center">
   <h6> - You can view my projects here <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h6>
@@ -46,7 +53,7 @@
 
 <hr>
     
-## 👨‍🎓 My study as a computer science(data engineering) student 
+## 👨‍🎓 My study 
 
 <h4>Year 1</h4>
 
@@ -70,7 +77,7 @@
 
 <h4>Year 2</h4>
 
-- to be continued...
+- to be updated...
 
 <hr>
 
