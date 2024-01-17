@@ -40,7 +40,7 @@
 
 ## 📑 Certificate
 <pre>
-- SPM 10A (8A+,1A,1A-)
+- SPM 10A 
 - Foundation CGPA 3.99
 - MUET 4.0  
 </pre>
