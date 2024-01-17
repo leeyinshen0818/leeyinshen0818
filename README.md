@@ -28,18 +28,22 @@
 <hr>
 
 ## 🎓Education 
+<pre>
 - SMK Simpang Renggam
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
 - UTM
   - Foundation in Physical Science (2022 - 2023)
   - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
+</pre>
 
 <hr>
 
 ## 📑 Certificate
+<pre>
 - SPM 10A (8A+,1A,1A-)
 - Foundation CGPA 3.99
-- MUET 4.0
+- MUET 4.0  
+</pre>
 
 <hr>
 
@@ -51,6 +55,7 @@
 - Coding <img src = "IMG/cpp.png" width = "28"  align = "center">
   <h6> - You can view my projects here https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h6>
 
+  
 <hr>
     
 ## 👨‍🎓 My study 
