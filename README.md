@@ -1,143 +1,114 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Hi there👋, I'm LEE YIN SHEN</h1>
+
+<h1 align="center">Hi there 👋, I'm LEE YIN SHEN</h1>
+
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate&center=true&width=500&height=30"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineering+Student;AI+%26+Software+Enthusiast;System+Developer;Photo+Editor;Always+Learning&center=true&width=600&height=30">
+  </a>
 </p>
 
 <p align="center">
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+  <b><i>"It's only one more try that separates success from failure."</i></b>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leeyinshen0818&label=Profile%20views&color=0e75b6&style=flat" alt="leeyinshen0818" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=leeyinshen0818&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<hr>
+---
 
-## 🧑 Little fact about me
+## 🧑 About Me
+I’m a Computer Science (Data Engineering) student at UTM (CGPA 3.99) who enjoys building practical systems, solving data problems, and exploring AI applications. I develop web systems, dashboards, and automations—while also working as a photo editor focused on restoration and enhancement. I continuously learn through hands-on projects and hackathons.
+
+---
+
+## 🎓 Education  
 
 <pre>
-💻 I am a self taught data engineer and photo editor
-📚 I am currently studying Bachelors Degree in Computer Science(Data Engineering) in Universiti Teknologi Malaysia
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: CPP, PYTHON
-🚩 Interested in data collecting and data virtualisation
+Bachelor of Computer Science (Data Engineering), UTM
+2023 – Present | Current CGPA: 3.99
+
+Relevant Coursework:
+AI • Data Mining • Data Analytics Programming • Database Programming • Enterprise Systems
 </pre>
 
-<hr>
+---
 
-## 🎓Education 
-<pre>
-- SMK Simpang Renggam
-  - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
-- UTM
-  - Foundation in Physical Science (2022 - 2023)
-  - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
-</pre>
+## 🏆 Achievements & Projects (Condensed)
 
-<hr>
+### • Cisco AI Hackathon 2024 – 4th Place  
+Developed an AI-backed prototype connecting university lessons to industry use cases.  
+**Tech:** PHP
 
-## 📑 Certificate
-<pre>
-- SPM 10A 
-- Foundation CGPA 3.99
-- MUET 4.0  
-</pre>
+### • UTMxHackathon – 1st Runner-Up  
+Built *Wello*, an AI onboarding & hiring simulation platform.  
+**Tech:** React, TypeScript, Node.js
 
-<hr>
+### • L’Oréal x Monash Datathon – Top 10  
+Created *TrendSpotter*, a multilingual YouTube analytics dashboard.  
+**Tech:** Python, Streamlit
 
-## 💪 Skills 
+### • Green Growth Idea Hackathon 2025 – Top 5 Global  
+Proposed a kinetic energy–generating tyre system for EV efficiency.
 
-- Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center">
-  <h6> - You can view my projects here <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h6>
-  
-- Coding <img src = "IMG/cpp.png" width = "28"  align = "center">
-  <h6> - You can view my projects here https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h6>
+### • Accounting & Receipt System  
+Automated daily, monthly, and yearly sales reporting.  
+**Tech:** PHP (MVC), MySQL
 
-  
-<hr>
-    
-## 👨‍🎓 My study 
+### • Kada Cooperative System – Project Leader  
+Developed modules for membership, loans, and savings accounts.  
+**Tech:** PHP (MVC), MySQL
 
-<h4>Year 1</h4>
+---
 
-- Technology and Information System 📱
-  <h6>You can view my TIS projects here https://github.com/leeyinshen0818/Technology-and-Information-System-.git </h6>
-- Digital Logic 💾
-  <h6>You can view my DL projects here https://github.com/leeyinshen0818/DIGITAL-LOGIC.git </h6>
-- Programming Technique I 💻
-  <h6>You can view my PT1 projects here https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h6>
-- Discrete Structure 📈
-  <h6>You can view my DS projects here https://github.com/leeyinshen0818/DISCRETE-STRUCTURE.git </h6>
-- Integrity And Anti-Corruption 🧑‍🤝‍🧑
-  <h6>You can view my projects here https://github.com/leeyinshen0818/INTEGRITY-AND-ANTI-CORRUPTION </h6>
+## 🛠️ Technical Skills  
 
-<hr>
+### **Programming**
+- Python  
+- C++  
+- JavaScript / TypeScript  
+- PHP (MVC)  
+- MySQL  
+- HTML, CSS  
 
-## 👨‍💻Languages and Tools I learned 
-<img src = "IMG/clion.1024x1024.png" width = "50" > <img src = "IMG/c++.png" width = "50" ><img src = "IMG/GitHub.png" width = "50"><img src = "IMG/Deeds.jpg" width = "50" height = "50">
+### **Data & Software**
+- Data Analytics  
+- Dashboard Development (Streamlit)  
+- System Design & Backend Architecture  
+- Machine Learning (Beginner)
 
-<hr>
+### **Photo Editing**
+- Adobe Photoshop (Advanced)  
+- Restoration & compositing  
 
-<h4>Year 2</h4>
+🎨 Portfolio:  
+https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0
 
-- to be updated...
+---
 
-<hr>
+## 🤝 Connect With Me
 
-## 🤝Connect with me:
-  </hr>
-  <a href="https://www.linkedin.com/in/lee-yin-shen-86ba87297">
-   <img align="left" alt="LEE YIN SHEN | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:leeyinshen2004@gmail.com">
-    <img align="left" alt="LEE YIN SHEN | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/ys_523006">
-    <img align="left" alt="LEE YIN SHEN | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://github.com/leeyinshen0818">
-    <img align="left" alt="LEE YIN SHEN | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-    </a>
-   <a href="https://www.facebook.com/li.sen.7/">
-    <img align="left" alt="Om Patel | Facebook" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  />
-  </a>
-  <br>
+<a href="https://www.linkedin.com/in/lee-yin-shen-86ba87297">
+  <img align="left" width="26" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+</a>
 
+<a href="mailto:leeyinshen2004@gmail.com">
+  <img align="left" width="26" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
+</a>
 
-<!--
-**leeyinshen0818/leeyinshen0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/ys_523006">
+  <img align="left" width="24" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/leeyinshen0818">
+  <img align="left" width="26" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://www.facebook.com/li.sen.7/">
+  <img align="left" width="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/leeyinshen0818/leeyinshen0818.git](https://github.com/leeyinshen0818/leeyinshen0818.git)
-- 📫 How to reach me **leeyinshen2004@gmail.com**
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-<h3>Little facts about me 🧑</h3>
-
-- 🧞 A super introvert.
-- 🏠 Enjoy to be alone.
-- 🌴 A nature lover.
-- 🎣 A fishing lover.
-- 🔷 A Rubik's cube lover.
-  <em>
-    Myself <b>Lee Yin Shen</b>, a first year <b>Computer Science</b> undergraduate from <b>Universiti Teknologi Malaysia</b>.
-    An aspiring <b>Data Engineer.</b> 
-  <br>
-  <h4> Photoshop <img src = "IMG/Photoshop.png" width = "40"  align = "center"> <br> - Some of my projects <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link"> Visit https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h4>
-  
-<h4> Coding <img src = "IMG/cpp.png" width = "28"  align = "center"> <br> - Some of my projects https://github.com/leeyinshen0818/PROGRAMMING-TECHNIQUE-I.git </h4>
--->
+<br><br>
