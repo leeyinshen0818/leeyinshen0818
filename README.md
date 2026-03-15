@@ -39,6 +39,10 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
 
 ## 🏆 Achievements & Projects (Condensed)
 
+### • Website Growth Engine Upgrade (DXP Program) – *Nucleus Advisory* (Current Project)  
+Handled backend development to build a custom WordPress plugin upgrading the company's digital platform. Created a dynamic administrative interface with drag-and-drop functionality for streamlined content management, and developed secure server-side data processing routines to ensure reliable database updates.  
+**Tech:** WordPress API, PHP, JavaScript, CSS Grid
+
 ### • Cisco AI Hackathon 2024 – 4th Place  
 Developed an AI-backed prototype connecting university lessons to industry use cases.  
 **Tech:** PHP
@@ -69,15 +73,16 @@ Developed modules for membership, loans, and savings accounts.
 ### **Programming**
 - Python  
 - C++  
-- JavaScript / TypeScript  
-- PHP (MVC)  
+- JavaScript / TypeScript / jQuery
+- PHP (MVC, WordPress)  
 - MySQL  
 - HTML, CSS  
 
 ### **Data & Software**
 - Data Analytics  
 - Dashboard Development (Streamlit)  
-- System Design & Backend Architecture  
+- System Design & Backend Architecture
+- WordPress Plugin Development
 - Machine Learning (Beginner)
 
 ### **Photo Editing**
