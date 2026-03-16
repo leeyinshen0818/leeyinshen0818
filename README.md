@@ -113,10 +113,6 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
   <img align="left" width="26" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
 </a>
 
-<a href="https://www.instagram.com/ys_523006">
-  <img align="left" width="24" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
-</a>
-
 <a href="https://github.com/leeyinshen0818">
   <img align="left" width="26" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
 </a>
