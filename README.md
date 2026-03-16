@@ -22,6 +22,7 @@
 
 ## 🧑 About Me
 I’m a Third-Year Computer Science (Data Engineering) student at UTM who enjoys building practical systems, solving data problems, and exploring AI applications. I develop web systems, dashboards, and automations—while also working as a photo editor focused on restoration and enhancement. I continuously learn through hands-on projects and programs.
+
 ---
 
 ## 🎓 Education  
