@@ -37,60 +37,60 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
 
 ---
 
-## 🏆 Achievements & Projects (Condensed)
+## 🚀 Projects
 
-### • Website Growth Engine Upgrade (DXP Program) – *Nucleus Advisory* (Current Project)  
-Handled backend development to build a custom WordPress plugin upgrading the company's digital platform. Created a dynamic administrative interface with drag-and-drop functionality for streamlined content management, and developed secure server-side data processing routines to ensure reliable database updates.  
-**Tech:** WordPress API, PHP, JavaScript, CSS Grid
+### [Website Growth Engine Upgrade (DXP Program) ↗](https://github.com/your-username/repo-link-here)
+**Role:** WordPress Developer *(Nucleus Advisory)* 
+- Developed a custom WordPress plugin to power the company's headless page-building experience.
+- Built a comprehensive and highly customized dynamic admin interface to streamline advanced content and layout management.
+- Handled secure backend data transitions between the custom editor and the database.  
+- Integrated robust data tracking workflows, capturing website interactions and syncing pipelines into Google Sheets and Looker Studio for real-time analytics.   
+<p align="left">
+  <sub><b>Tech Stack:</b></sub>
+  <code>WordPress</code> &nbsp; <code>PHP</code> &nbsp; <code>JavaScript</code> &nbsp; <code>CSS</code> &nbsp; <code>GA</code> &nbsp; <code>Looker Studio</code>
+</p>
 
-### • Cisco AI Hackathon 2024 – 4th Place  
-Developed an AI-backed prototype connecting university lessons to industry use cases.  
-**Tech:** PHP
+### [SimuLearn - AI-Powered Industry Simulation Platform ↗](https://github.com/leeyinshen0818/SimuLearn)
+**Role:** Full Stack Developer
+- Developed an AI-powered educational platform that simulates real-world software development workflows using Laravel and React.
+- Built a recommendation engine to match students with personalized projects based on their current skill levels.
+- Integrated the Google Gemini API to act as an automated code reviewer, providing instant grading and actionable feedback on code submissions.
+- Created a comprehensive user dashboard for onboarding, progress monitoring, and career analytics.
+<p align="left">
+  <sub><b>Tech Stack:</b></sub>
+  <code>Laravel</code> &nbsp; <code>React</code> &nbsp; <code>Inertia.js</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>MySQL</code> &nbsp; <code>Google Gemini API</code>
+</p>
 
-### • UTMxHackathon – 1st Runner-Up  
-Built *Wello*, an AI onboarding & hiring simulation platform.  
-**Tech:** React, TypeScript, Node.js
+### [Employee Onboarding Platform (Prototype) ↗](https://github.com/lauyankai/utmhackathon25)
+**Role:** Full Stack Developer *(UTMxHackathon '25 - 1st Runner-Up)*
+- Developed a prototype for a role-based employee onboarding platform using React and TypeScript.
+- Built branch-specific interactive onboarding workflows customized for technical and non-technical roles (covering company culture, security, tech stack, and role overviews).
+- Created a custom responsive layout with progress tracking and a built-in interactive chatbot UI for employee assistance.
+- *Note: This project is an early-stage prototype built during the hackathon.* 
+<p align="left">
+  <sub><b>Tech Stack:</b></sub>
+  <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>Tailwind CSS</code>
+</p>
 
-### • L’Oréal x Monash Datathon – Top 10  
-Created *TrendSpotter*, a multilingual YouTube analytics dashboard.  
-**Tech:** Python, Streamlit
 
-### • Green Growth Idea Hackathon 2025 – Top 5 Global  
-Proposed a kinetic energy–generating tyre system for EV efficiency.
-
-### • Accounting & Receipt System  
-Automated daily, monthly, and yearly sales reporting.  
-**Tech:** PHP (MVC), MySQL
-
-### • Kada Cooperative System – Project Leader  
-Developed modules for membership, loans, and savings accounts.  
-**Tech:** PHP (MVC), MySQL
 
 ---
 
 ## 🛠️ Technical Skills  
 
-### **Programming**
-- Python  
-- C++  
-- JavaScript / TypeScript / jQuery
-- PHP (MVC, WordPress)  
-- MySQL  
-- HTML, CSS  
+- **Data Engineering:** Python, MySQL, Reporting Automation  
+- **Full Stack:** Laravel, React.js, Inertia.js, WordPress  
+- **Data Analytics:** Python, Google Analytics (GA), Google Tag Manager (GTM), Looker Studio 
+- 🎨 **Creative Suite:** Advanced Photo Editing, Restoration & Compositing *(Adobe Photoshop)*
 
-### **Data & Software**
-- Data Analytics  
-- Dashboard Development (Streamlit)  
-- System Design & Backend Architecture
-- WordPress Plugin Development
-- Machine Learning (Beginner)
+---
 
-### **Photo Editing**
-- Adobe Photoshop (Advanced)  
-- Restoration & compositing  
+## 🏆 Key Achievements
 
-🎨 Portfolio:  
-https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0
+- **L’Oréal x Monash Datathon** – Top 10  
+- **UTMxHackathon** – 1st Runner-Up  
+- **Cisco AI Hackathon 2024** – 4th Place  
+- **Green Growth Idea Hackathon 2025** – Top 5 Global
 
 ---
 
