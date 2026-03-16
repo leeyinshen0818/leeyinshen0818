@@ -39,7 +39,7 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
 
 ## 🚀 Projects
 
-### Website Growth Engine Upgrade (DXP Program)
+### Website Growth Engine Upgrade (DXP Program) ![Active](https://img.shields.io/badge/Active-28a745aa?style=flat-square)
 **Role:** WordPress Developer *(Nucleus Advisory)* 
 - Developed a custom WordPress plugin to power the company's headless page-building experience.
 - Built a comprehensive and highly customized dynamic admin interface to streamline advanced content and layout management.
@@ -50,7 +50,7 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
   <code>WordPress</code> &nbsp; <code>PHP</code> &nbsp; <code>JavaScript</code> &nbsp; <code>CSS</code> &nbsp; <code>GA</code> &nbsp; <code>Looker Studio</code>
 </p>
 
-### [SimuLearn - AI-Powered Industry Simulation Platform ↗](https://github.com/leeyinshen0818/SimuLearn)
+### [SimuLearn - AI-Powered Industry Simulation Platform ↗](https://github.com/leeyinshen0818/SimuLearn) ![Active](https://img.shields.io/badge/Active-28a745aa?style=flat-square)
 **Role:** Full Stack Developer
 - Developed an AI-powered educational platform that simulates real-world software development workflows using Laravel and React.
 - Built a recommendation engine to match students with personalized projects based on their current skill levels.
