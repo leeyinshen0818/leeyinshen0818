@@ -39,7 +39,7 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
 
 ## 🚀 Projects
 
-### [Website Growth Engine Upgrade (DXP Program) ↗](https://github.com/your-username/repo-link-here)
+### Website Growth Engine Upgrade (DXP Program)
 **Role:** WordPress Developer *(Nucleus Advisory)* 
 - Developed a custom WordPress plugin to power the company's headless page-building experience.
 - Built a comprehensive and highly customized dynamic admin interface to streamline advanced content and layout management.
