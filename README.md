@@ -72,6 +72,15 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
   <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>Tailwind CSS</code>
 </p>
 
+### [Smart Photo Reporting System ↗](https://github.com/leeyinshen0818/Smart-Photo-reporting-system)
+**Role:** Full Stack Developer *(Smart Photo And Watches)*
+- Developed a custom MVC-based PHP application to streamline product management and track daily sales transactions for a local photo shop in Simpang Renggam.
+- Engineered an automated receipt generation feature using the TCPDF library to instantly create professional PDF bills.
+- Built a comprehensive reporting system to monitor detailed sales metrics and product inventory, assisting the business in data-driven decision making.
+<p align="left">
+  <sub><b>Tech Stack:</b></sub>
+  <code>PHP</code> &nbsp; <code>PHP</code> &nbsp; <code>MySQL</code> &nbsp; <code>Bootstrap</code> &nbsp; <code>JavaScript</code>
+</p>
 
 
 ---
@@ -81,7 +90,7 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
 - **Data Engineering:** Python, MySQL, Reporting Automation  
 - **Full Stack:** Laravel, React.js, Inertia.js, WordPress  
 - **Data Analytics:** Python, Google Analytics (GA), Google Tag Manager (GTM), Looker Studio 
-- 🎨 **Creative Suite:** Advanced Photo Editing, Restoration & Compositing *(Adobe Photoshop)*
+- 🎨 **Creative Suite:** Advanced Photo Editing, Restoration & Compositing *(AI + Adobe Photoshop)*
 
 ---
 
