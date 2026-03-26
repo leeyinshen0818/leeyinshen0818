@@ -42,7 +42,7 @@ AI • Data Mining • Data Analytics Programming • Database Programming • E
 ### Website Growth Engine Upgrade (DXP Program) ![Active](https://img.shields.io/badge/Active-28a745aa?style=flat-square)
 **Role:** WordPress Developer *(Nucleus Advisory)* 
 - Developed a custom WordPress plugin to power the company's headless page-building experience.
-- Built a comprehensive and highly customized dynamic admin interface to streamline advanced content and layout management.
+- Built a comprehensive and customized admin interface to streamline advanced content and layout management.
 - Handled secure backend data transitions between the custom editor and the database.  
 - Integrated robust data tracking workflows, capturing website interactions and syncing pipelines into Google Sheets and Looker Studio for real-time analytics.   
 <p align="left">
