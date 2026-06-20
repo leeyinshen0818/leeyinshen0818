@@ -32,7 +32,7 @@ Third-year **Computer Science (Data Engineering)** student at **Universiti Tekno
 
 ## 🎓 Education
 
-**Bachelor of Computer Science (Data Engineering)** — Universiti Teknologi Malaysia (UTM)
+**Bachelor of Computer Science (Data Engineering)** — Universiti Teknologi Malaysia (UTM)  
 **2023 – Present** | Current CGPA: **3.99**
 
 Relevant coursework: Database Programming, Data Analytics Programming, Data Mining, Artificial Intelligence, Enterprise System Design and Modelling
@@ -43,28 +43,35 @@ Relevant coursework: Database Programming, Data Analytics Programming, Data Mini
 
 ### [Website Growth Engine Upgrade — DXP Program ↗](https://github.com/leeyinshen0818/DXP-Nucleus-Advisory)
 
-**Backend Developer / Digital Agent** | Nucleus Advisory, facilitated by Kabel | Feb 2026 – Apr 2026
+**Backend Developer / Digital Agent** | Nucleus Advisory, facilitated by Kabel | Feb 2026 – Apr 2026  
 Built custom WordPress admin dashboards to help the company create pages, manage products, list programmes, and track website leads without manual coding.
 
 `WordPress` `PHP` `JavaScript` `Shopify Buy Button` `Contact Form 7` `Google Analytics` `Looker Studio`
 
 ### [SimuLearn — AI-Supported Learning Platform ↗](https://github.com/leeyinshen0818/SimuLearn)
 
-**Full Stack Developer**
+**Full Stack Developer**  
 Built a platform that matches Computer Science students with company-style projects based on their skills, breaks projects into step-by-step tasks, and uses Gemini API to review submitted work.
 
 `Laravel` `React.js` `Inertia.js` `Tailwind CSS` `MySQL` `Google Gemini API`
 
+### [TVETMARA Student Attendance Management System ↗](https://github.com/leeyinshen0818/TVETMARA-Student-Attendance-Management-System)
+
+**System Developer**  
+Developed a role-based web system for managing student attendance, timetables, student records, attendance reports, room bookings, discipline reports, and staff accounts. The system supports weekly and all-weeks reporting, attendance risk tracking, timetable conflict detection, PDF and Excel exports, and dedicated workflows for administrators, department heads, programme heads, and lecturers.
+
+`Flutter` `Dart` `Firebase Authentication` `Cloud Firestore` `Firebase Hosting` `PDF Export` `Excel Export`
+
 ### [Smart Photo SMS ↗](https://github.com/leeyinshen0818/Smart-Photo-reporting-system)
 
-**System Developer** | Smart Photo and Watches
+**System Developer** | Smart Photo and Watches  
 Developed a sales management system that replaces manual receipts and handwritten sales records with receipt printing, product management, sales reports, charts, and PDF report export.
 
 `PHP MVC` `MySQL` `Bootstrap` `JavaScript` `TCPDF`
 
 ### [Wello — AI Onboarding Prototype ↗](https://github.com/lauyankai/utmhackathon25)
 
-**AI Hackathon Prototype** | UTMxHackathon 1st Runner-Up
+**AI Hackathon Prototype** | UTMxHackathon 1st Runner-Up  
 Created an AI-powered onboarding prototype that helps new employees learn company information step by step and complete skill-based tasks for role matching.
 
 `React` `TypeScript` `Vite` `Node.js` `Express` `Tailwind CSS`
@@ -73,20 +80,20 @@ Created an AI-powered onboarding prototype that helps new employees learn compan
 
 ## 🛠️ Skills
 
-**Programming & Web:** PHP, Laravel, JavaScript, React.js, Inertia.js, HTML, CSS, Tailwind CSS, Bootstrap
-**Database & Data:** MySQL, Python, data processing, ETL basics, reporting automation
-**Reports & Analytics:** Google Analytics, Google Tag Manager, Looker Studio, dashboards, charts, PDF reports
-**WordPress & Integrations:** Custom WordPress dashboards, Contact Form 7, Shopify Buy Button, Google Gemini API
+**Programming & Web:** PHP, Laravel, JavaScript, TypeScript, React.js, Flutter, Dart, Inertia.js, HTML, CSS, Tailwind CSS, Bootstrap  
+**Database & Data:** MySQL, Cloud Firestore, Python, data processing, ETL basics, reporting automation  
+**Reports & Analytics:** Google Analytics, Google Tag Manager, Looker Studio, dashboards, charts, PDF reports, Excel exports  
+**Platforms & Integrations:** Firebase Authentication, Firebase Hosting, WordPress dashboards, Contact Form 7, Shopify Buy Button, Google Gemini API  
 **Design & Creative:** GitHub, Figma, Adobe Photoshop, AI-assisted photo enhancement and restoration
 
 ---
 
 ## 🏆 Achievements
 
-* **1st Runner-Up** — UTMxHackathon
-* **4th Place** — Cisco AI Hackathon 2024
-* **Top 5 Global Finalist** — Green Growth Idea Hackathon 2025, Pohang, South Korea
-* **Top 10 Finalist** — L'Oréal x Monash Datathon
+- **1st Runner-Up** — UTMxHackathon
+- **4th Place** — Cisco AI Hackathon 2024
+- **Top 5 Global Finalist** — Green Growth Idea Hackathon 2025, Pohang, South Korea
+- **Top 10 Finalist** — L'Oréal x Monash Datathon
 
 ---
 
